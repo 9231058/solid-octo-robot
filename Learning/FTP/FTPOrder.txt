@@ -1,0 +1,7 @@
+open 62.193.13.144
+alvani
+par
+cd 'alvani.'
+quote site file=jes
+get lib.jcl(iefbr14)
+quit
